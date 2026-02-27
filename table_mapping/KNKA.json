@@ -1,0 +1,6 @@
+{
+  "KUNNR": "customer_number",
+  "KLIMG": "credit_limit_overall",
+  "KLIME": "credit_limit_individual_control_area",
+  "WAERS": "currency_key"
+}

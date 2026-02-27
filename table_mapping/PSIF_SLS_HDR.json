@@ -1,0 +1,19 @@
+{
+  "VBELN": "sales_document",
+  "VBELN_ORD": "sales_and_distribution_document_number",
+  "KUNNR": "sold_to_party",
+  "PONUM": "customer_purchase_order_number",
+  "BSTDK": "customer_purchase_order_date",
+  "AUART": "sales_document_type",
+  "VKORG": "sales_organization",
+  "VTWEG": "distribution_channel",
+  "SPART": "division",
+  "VDATU": "requested_delivery_date",
+  "WAERK": "document_currency",
+  "ERDAT": "date_on_which_record_was_created",
+  "ERNAM": "name_of_person_who_created_the_object",
+  "SOLDTO": "sold_to_party",
+  "SOLDTO_NAME": "sold_to_party_name",
+  "SHIPTO": "ship_to_party",
+  "NAME1": "name"
+}

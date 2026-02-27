@@ -1,0 +1,11 @@
+{
+  "KUNNR": "customer_number",
+  "KKBER": "credit_control_area",
+  "CTLPC": "risk_category_credit_management",
+  "KLIMK": "customer_credit_limit",
+  "SKFOR": "credit_exposure_open_orders_deliveries",
+  "SBGRP": "credit_representative_group",
+  "KRAUS": "credit_information_number",
+  "WAERS": "currency_key",
+  "UMSKZ": "credit_exposure_indicator"
+}

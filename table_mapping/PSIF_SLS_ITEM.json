@@ -1,0 +1,8 @@
+{
+  "VBELN": "sales_document",
+  "POSNR": "item_number",
+  "MATNR": "material_number",
+  "NETWR": "net_value_in_document_currency",
+  "FKIMG": "quantity",
+  "ARKTX": "short_text"
+}

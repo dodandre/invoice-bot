@@ -1,0 +1,12 @@
+{
+  "PARTNER": "business_partner_customer_number",
+  "CREDIT_SGMNT": "credit_segment",
+  "CREDIT_LIMIT": "credit_limit",
+  "CRED_LIM_CALC": "calculated_credit_limit",
+  "CRED_LIM_REQ": "credit_limit_requested",
+  "XBLOCKED": "blocked_by_credit_management",
+  "XCRITICAL": "special_attention_required",
+  "BLOCK_REASON": "block_reason_credit_management",
+  "CURRENCY": "currency_key",
+  "CUST_GROUP": "customer_credit_group"
+}

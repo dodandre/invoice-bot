@@ -1,0 +1,12 @@
+{
+  "VBELN": "billing_document",
+  "POSNR": "billing_item_number",
+  "AUBEL": "reference_sales_document_number",
+  "AUPOS": "reference_sales_document_item",
+  "MATNR": "material_number",
+  "NETWR": "net_value_of_billing_item_in_document_currency",
+  "FKIMG": "actual_billed_quantity",
+  "WAERK": "document_currency",
+  "ARKTX": "short_text_for_sales_order_item",
+  "FKDAT": "billing_date"
+}

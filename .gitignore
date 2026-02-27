@@ -1,0 +1,87 @@
+# ------------------------------
+# Python
+# ------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ------------------------------
+# Virtual environments
+# ------------------------------
+chatbot/
+venv/
+.venv/
+env/
+ENV/
+.env/
+
+# ------------------------------
+# Secrets and local config
+# ------------------------------
+# Do not commit config.py — it contains DB passwords and API keys. Use config.example.py as a template.
+config.py
+.env
+.env.local
+*.pem
+
+# ------------------------------
+# IDE / Editor
+# ------------------------------
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# ------------------------------
+# OS
+# ------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ------------------------------
+# Logs and temp
+# ------------------------------
+*.log
+logs/
+tmp/
+temp/
+.cache/
+
+# ------------------------------
+# Streamlit
+# ------------------------------
+.streamlit/secrets.toml
+
+# ------------------------------
+# Jupyter
+# ------------------------------
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ------------------------------
+# Optional: backup and local data
+# ------------------------------
+Backup_files/
+other_files/

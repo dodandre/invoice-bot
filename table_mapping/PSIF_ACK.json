@@ -1,0 +1,8 @@
+{
+  "ACK_ID": "acknowledgment_id_or_status",
+  "ACK_TEXT": "acknowledgment_text_reason_for_delay_supplier_or_other",
+  "CRDAT": "created_date_when_sent",
+  "CRTIM": "created_time_when_sent",
+  "MANDT": "client",
+  "VBELN": "billing_document"
+}
