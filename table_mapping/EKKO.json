@@ -1,0 +1,1 @@
+{"EBELN":"purchase_order_number","LIFNR":"vendor_number","BEDAT":"purchase_order_date","BSART":"document_type","BUKRS":"company_code","ZTERM":"payment_terms","WAERS":"currency","WKURS":"exchange_rate","AEDAT":"created_on","ERNAM":"created_by","STATU":"processing_status"}

@@ -1,0 +1,16 @@
+{
+  "VBELN": "sales_document",
+  "MSGNO": "message_number",
+  "MSGTY": "message_type",
+  "MSGID": "message_id",
+  "MSGV1": "message_variable_1",
+  "MSGV2": "message_variable_2",
+  "MSGV3": "message_variable_3",
+  "MSGV4": "message_variable_4",
+  "STATUS": "edi_message_status",
+  "ERDAT": "date_created",
+  "ERNAM": "created_by",
+  "ERZET": "entry_time",
+  "AEDAT": "last_change_date",
+  "AENAM": "last_changed_by"
+}

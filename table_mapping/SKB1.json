@@ -1,0 +1,6 @@
+{
+  "BUKRS": "company_code",
+  "SAKNR": "gl_account_number",
+  "WAERS": "account_currency",
+  "XSPEB": "posting_only_indicator"
+}

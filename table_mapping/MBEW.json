@@ -1,0 +1,14 @@
+{
+  "MATNR": "material_number",
+  "BWKEY": "valuation_area",
+  "BWTAR": "valuation_type",
+  "BKLAS": "valuation_class",
+  "STPRS": "standard_price",
+  "VERPR": "moving_average_price",
+  "PEINH": "price_unit",
+  "LAEPR": "last_invoice_price",
+  "VPRSV": "price_control",
+  "BWTTY": "valuation_category",
+  "KALNR": "cost_estimate_number",
+  "LOSGR": "costing_lot_size"
+}

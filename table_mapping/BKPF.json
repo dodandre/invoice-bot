@@ -1,0 +1,11 @@
+{
+  "BELNR": "accounting_document_number",
+  "BUKRS": "company_code",
+  "GJAHR": "fiscal_year",
+  "BLDAT": "document_date",
+  "BUDAT": "posting_date",
+  "WAERS": "document_currency",
+  "XBLNR": "reference_document_number",
+  "BLART": "document_type",
+  "MONAT": "fiscal_period"
+}

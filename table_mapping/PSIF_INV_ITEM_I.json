@@ -1,0 +1,16 @@
+{
+  "VBELN": "inbound_invoice_document_number",
+  "POSNR": "item_number",
+  "MATNR": "material_number",
+  "NETWR": "net_value_in_document_currency",
+  "MENGE": "quantity",
+  "MEINS": "base_unit_of_measure",
+  "ARKTX": "short_text",
+  "BELNR": "invoice_number",
+  "GJAHR": "fiscal_year",
+  "BUKRS": "company_code",
+  "ERDAT": "date_created",
+  "ERNAM": "created_by",
+  "MWSBP": "tax_amount_in_document_currency",
+  "WRBTR": "amount_in_local_currency"
+}

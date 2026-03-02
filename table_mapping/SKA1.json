@@ -1,0 +1,7 @@
+{
+  "KTOPL": "chart_of_accounts",
+  "SAKNR": "gl_account_number",
+  "TXT50": "account_description",
+  "MUSTL": "field_status_group",
+  "XSPEB": "posting_only_indicator"
+}

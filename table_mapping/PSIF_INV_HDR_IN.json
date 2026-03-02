@@ -1,0 +1,17 @@
+{
+  "VBELN": "inbound_invoice_document_number",
+  "LIFNR": "vendor_account_number",
+  "BLDAT": "document_date",
+  "BUDAT": "posting_date",
+  "WAERK": "document_currency",
+  "NETWR": "net_value",
+  "BELNR": "invoice_number",
+  "GJAHR": "fiscal_year",
+  "BLART": "document_type",
+  "ERDAT": "date_created",
+  "ERNAM": "created_by",
+  "AEDAT": "last_change_date",
+  "AENAM": "last_changed_by",
+  "XBLNR": "reference_document_number",
+  "SGTXT": "item_text"
+}

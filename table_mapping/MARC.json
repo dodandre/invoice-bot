@@ -1,0 +1,18 @@
+{
+  "MATNR": "material_number",
+  "WERKS": "plant",
+  "PSTAT": "maintenance_status",
+  "LVORM": "deletion_flag",
+  "EKGRP": "purchasing_group",
+  "BSTME": "order_unit",
+  "MMSTA": "plant_specific_material_status",
+  "UEBTO": "overdelivery_tolerance",
+  "UNTTO": "underdelivery_tolerance",
+  "XCHAR": "batch_management_indicator",
+  "DISMM": "MRP_type",
+  "DISPO": "MRP_controller",
+  "BESKZ": "procurement_type",
+  "SOBSL": "special_procurement",
+  "PLIFZ": "planned_delivery_time",
+  "WEBAZ": "goods_receipt_processing_time"
+}

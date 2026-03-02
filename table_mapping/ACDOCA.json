@@ -1,0 +1,14 @@
+{
+  "RCLNT": "client",
+  "RLDNR": "ledger",
+  "RYEAR": "fiscal_year",
+  "RBUKRS": "company_code",
+  "RACCT": "gl_account",
+  "GJAHR": "fiscal_year",
+  "BELNR": "accounting_document_number",
+  "DOCLN": "line_item",
+  "WTGBTR": "amount_in_local_currency",
+  "RWCUR": "transaction_currency",
+  "PRCTR": "profit_center",
+  "SEGMENT": "segment"
+}

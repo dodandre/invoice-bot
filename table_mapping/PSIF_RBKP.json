@@ -1,0 +1,20 @@
+{
+  "BELNR": "invoice_document_number",
+  "GJAHR": "fiscal_year",
+  "LIFNR": "vendor_account_number",
+  "BLART": "document_type",
+  "BLDAT": "document_date",
+  "BUDAT": "posting_date",
+  "WAERK": "document_currency",
+  "XBLNR": "reference_document_number",
+  "BUKRS": "company_code",
+  "USNAM": "user_name",
+  "TCODE": "transaction_code",
+  "ERDAT": "date_created",
+  "ERNAM": "created_by",
+  "AEDAT": "last_change_date",
+  "AENAM": "last_changed_by",
+  "SGTXT": "header_text",
+  "WRBTR": "amount_in_local_currency",
+  "DMBTR": "amount_in_company_code_currency"
+}
